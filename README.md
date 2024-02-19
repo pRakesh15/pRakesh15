@@ -1,3 +1,4 @@
+![logo](https://github.com/pRakesh15/pRakesh15/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rakesh Pradhan</h1>
 <h3 align="center">Empowering Innovation through Full-Stack Mastery: Crafting Next-Gen Solutions</h3>
 
