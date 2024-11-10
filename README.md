@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakesh15&label=Profile%20views&color=0e75b6&style=flat" alt="prakesh15" /> </p>
 
-- 🌱 I’m currently learning **Graph Ql ,React Native**
+- 🌱 I’m currently learning **Graph Ql ,React Native and next js**
 
 - 👨‍💻 All of my projects are available at [https://rakesh15.vercel.app/](https://rakesh15.vercel.app/)
 
