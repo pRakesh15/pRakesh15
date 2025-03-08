@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakesh15&label=Profile%20views&color=0e75b6&style=flat" alt="prakesh15" /> </p>
 
-- 🌱 I’m currently learning **Go lang**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://rakesh15.vercel.app/](https://rakesh15.vercel.app/)
 
