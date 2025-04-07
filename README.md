@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react,Node js**
 
-- 📫 How to reach me **rp5865442@gmail.com**
+- 📫 How to reach me **prakesh15.dev@gmail.com**
 
 - 📄 Know about my experiences [https://res.cloudinary.com/dcycd6p6i/image/upload/v1708354119/pup8fubuy9gvbojih69v.jpg](https://res.cloudinary.com/dcycd6p6i/image/upload/v1708354119/pup8fubuy9gvbojih69v.jpg)
 
